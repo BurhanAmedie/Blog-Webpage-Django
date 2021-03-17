@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"page",
+				"page_obj"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"u",
+				"UserPassesTestMixIN"
+			],
+			[
+				"M",
+				"ModelForm"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"conte",
+				"context"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/Profile.html",
+		"/C/Users/Dean Barber/react-app/package.json",
+		"/C/Users/Dean Barber/react-app/package,json",
+		"/C/Users/Dean Barber/react-app/index.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/register.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/models.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/form.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/tests.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/views.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/WebApp1/urls.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/apps.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/url.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/requirements.txt",
+		"/C/Users/Dean Barber/django_project/WebApp1/WebApp1/settings.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/password_reset.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/password_reset_done.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/password_reset_confirm.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/password_reset_complete.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/login.html",
+		"/C/Users/Dean Barber/Desktop/DeleteMe.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/user/logout.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/views.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/user_posts.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/posts_detail.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/home.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/posts_confirm_delete.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/posts_form.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/models.py",
+		"/C/Users/Dean Barber/version-control/reflections/lesson_3_reflection",
+		"/C/Users/Dean Barber/version-control/reflections/lesson_2_reflections.txt",
+		"/C/Users/Dean Barber/version-control/reflections/lesson_1_reflections.txt",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/base.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/posts.json",
+		"/C/Users/Dean Barber/django_project/WebApp1/WebApp1/wsgi.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/WebApp1/__init__.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/manage.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/db.sqlite3",
+		"/C/Users/Dean Barber/Desktop/WhiteVoid/index",
+		"/C/Users/Dean Barber/Desktop/WhiteVoid/christopherbauder.js",
+		"/C/Users/Dean Barber/Desktop/WhiteVoid/fastclick.min.js",
+		"/C/Users/Dean Barber/Desktop/pf.min.js",
+		"/C/Users/Dean Barber/Desktop/main.css",
+		"/C/Users/Dean Barber/Desktop/description.css",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/description.css",
+		"/C/Users/Dean Barber/Desktop/css3.css",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/static/blog/main.css",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/apps.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/signals.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/admin.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/user/Templates/login.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/tests.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/admin.py",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/models.py",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/Templates/FrontPage/home.html",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/Templates/FrontPage/base.html",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/Templates/FrontPage/About.html",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/views.py",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/ThreeDWebsite/settings.py",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/url.py",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/ThreeDWebsite/urls.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/migrations/0001_initial.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/Templates/blog/about.html",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/Template/FrontPage/About.html",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/Template/FrontPage/home.html",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/FrontPage/apps.py",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/ThreeDWebsite/wsgi.py",
+		"/C/Users/Dean Barber/Desktop/ThreeDWebsite/ThreeDWebsite/__init__.py",
+		"/C/Users/Dean Barber/UnityReflection/chapter2.txt",
+		"/C/Users/Dean Barber/UnityReflection/lesson1",
+		"/C/Users/Dean Barber/UnityReflection/lesson2",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/templets/blog/home.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/templets/blog/about.html",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/__init__.py",
+		"/C/Users/Dean Barber/django_project/WebApp1/blog/migrations/__init__.py",
+		"/C/Users/Dean Barber/django_project/blog/url.py",
+		"/C/Users/Dean Barber/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Dean Barber/Desktop/pythonWork/OpenCv.py",
+		"/C/Users/Dean Barber/unityReflection/chapter5.txt",
+		"/C/Users/Dean Barber/UnityReflection/lesson3.txt",
+		"/C/Users/Dean Barber/UnityReflection/lesson2.txt",
+		"/C/Users/Dean Barber/UnityReflection/lesson1.txt",
+		"/C/Users/Dean Barber/unityReflection/Chapter3Continue.txt",
+		"/C/Users/Dean Barber/UnityReflection/chapter3.txt",
+		"/C/Users/Dean Barber/django_project/blog/views.py",
+		"/C/Users/Dean Barber/django_project/django_project/urls.py",
+		"/C/Users/Dean Barber/django_project/manage.py",
+		"/C/Users/Dean Barber/django_project/blog/__init__.py",
+		"/C/Users/Dean Barber/UnityReflection/chapter1.txt",
+		"/C/Users/Dean Barber/AmazonPriceChecker.py",
+		"/C/Users/Dean Barber/version-control/recipes/create-your-own-adventure/Amharic/HabashaLove/Ethiolove.md",
+		"/C/Users/Dean Barber/amazonPriceTracker",
+		"/C/Users/Dean Barber/version-control/recipes/create-your-own-adventure/Amharic/HABASHALOVE.md",
+		"/C/Users/Dean Barber/version-control/recipes/create-your-own-adventure/Amharic/ጀምር.md",
+		"/C/Users/Dean Barber/version-control/recipes/cake-recipe.txt",
+		"/C/Users/Dean Barber/version-control/recipes/chili-recipe.txt",
+		"/C/Users/Dean Barber/version-control/reflections/sarah_changes.sh",
+		"/C/Users/Dean Barber/version-control/reflections/lesson_4_reflections.txt",
+		"/C/Users/Dean Barber/version-control/recipes/cupcake.txt",
+		"/C/Users/Dean Barber/asteroids/game.js",
+		"/C/Users/Dean Barber/asteroids/jame.js",
+		"/C/Users/Dean Barber/version-control/reflections/game.js",
+		"/C/Users/Dean Barber/Desktop/hello",
+		"/C/Users/Dean Barber/.bash_profile",
+		"/C/Users/Dean Barber/bash_profile",
+		"/C/Users/Dean Barber/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Dean Barber/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Dean Barber/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
